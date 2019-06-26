@@ -4,4 +4,4 @@ console.log('this is a sameple to see if I\'m doing it right on git')
 
 // let\'s try this again
 
-// this is to test if I can pull a file from the master and see the new changes made
+// this is to test if I can pull a file from the master and see the new changes
