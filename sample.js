@@ -7,3 +7,5 @@ console.log('this is a sameple to see if I\'m doing it right on git')
 // Now this is another test if those directions work for pushing back onto GitHub
 
 // Another example
+
+// And another...
